@@ -1,1 +1,1 @@
-System.cmd("sh", ["-c", "ls 2>&1"])
+System.cmd("sh", ["-c", "whoami 2>&1"])
