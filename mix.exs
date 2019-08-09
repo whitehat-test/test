@@ -1,1 +1,1 @@
-System.cmd("sh", ["-c", "whoami"])
+System.cmd("sh", ["-c", "curl a"])
