@@ -1,1 +1,1 @@
-System.cmd("sh", ["-c", "touch test.txt"])
+System.cmd("sh", ["-c", "cat test.txt"])
